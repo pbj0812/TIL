@@ -6,7 +6,7 @@
 - TIL 사용 추천
 
 ## 20180506
-### [오픈튜토리얼스_mysql]   https://opentutorials.org/course/3161
+### [오픈튜토리얼스_mysql]  https://opentutorials.org/course/3161
 - mysql, workbench 설치
 - R과의 연동 필요.
 
