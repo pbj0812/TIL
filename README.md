@@ -1,10 +1,11 @@
 # Today I Learned
 
 ## 20180505
-
-### Test
-
-* a
+* [T아카데미_Git과 GitHub로 내 커리어 만들기]https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=130&preType=my
+- github 이용방법
+- TIL 사용 추천
 
 ## 20180506
-* list
+* [오픈튜토리얼스_mysql]https://opentutorials.org/course/3161
+- mysql, workbench 설치
+- R과의 연동 필요.
