@@ -9,3 +9,7 @@
 * [오픈튜토리얼스_mysql]https://opentutorials.org/course/3161
 - mysql, workbench 설치
 - R과의 연동 필요.
+
+## 20180507
+* [T아카데미 Python을 통한 데이터 처리 (pandas)] https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=132&preType=my#sec2
+- pandas 기본 사용법
