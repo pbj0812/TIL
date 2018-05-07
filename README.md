@@ -18,3 +18,4 @@
 ### [T아카데미 Python을 통한 데이터 시각화 (matplotlib, seaborn)]  https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=132&preType=my
 - matplotlib, seaborn 사용법
 - matplotlib Exercise.ipynb, seaborn Exercise.ipynb 
+- R로 MySQL 연동
