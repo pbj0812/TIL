@@ -14,3 +14,7 @@
 ### [T아카데미 Python을 통한 데이터 처리 (pandas)]  https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=132&preType=my#sec2
 - pandas 기본 사용법
 - pandas Exercise.ipynb 파일 
+
+### [T아카데미 Python을 통한 데이터 시각화 (matplotlib, seaborn)]  https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=132&preType=my
+- matplotlib, seaborn 사용법
+- matplotlib Exercise.ipynb, seaborn Exercise.ipynb 
