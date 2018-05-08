@@ -19,6 +19,7 @@
 - matplotlib, seaborn 사용법
 - matplotlib Exercise.ipynb, seaborn Exercise.ipynb 
 - R로 MySQL 연동
+- DBI, RMySQL packages 필요
 - MySQL_R.ipynb 파일
 - Jupyter Notebook에서 R 사용하기
 - https://www.youtube.com/watch?v=SXBxKe8sK6I
