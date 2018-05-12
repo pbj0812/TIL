@@ -24,5 +24,3 @@
 - Jupyter Notebook에서 R 사용하기
 - https://www.youtube.com/watch?v=SXBxKe8sK6I
 
-## 20180507
-### 
