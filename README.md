@@ -24,3 +24,6 @@
 - Jupyter Notebook에서 R 사용하기
 - https://www.youtube.com/watch?v=SXBxKe8sK6I
 
+## 20180513
+### [T아카데미 도커의 이해]
+- 도커 
