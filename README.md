@@ -41,3 +41,8 @@
 ### [모두를 위한 프로그래밍 : 파이썬]
 - 기초 문법(변수, 제어문, 반복문, 함수 생성)
 - py4e_1class.ipynb 
+
+## 20180520
+### [파이썬 자료구조]
+- string, list, dictionary, tuple
+- py4e_class2.ipynb 
