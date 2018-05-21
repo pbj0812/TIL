@@ -47,7 +47,7 @@
 - string, list, dictionary, tuple
 - py4e_class2.ipynb 
 
-## 20180520
+## 20180521
 ### [도커의 이해]
 - 도커 설치, 사용
 - 컨테이너 이해, 이미지 생성, 확인, 삭제 등.
