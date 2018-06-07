@@ -68,4 +68,4 @@
 
 ## 20180606
 ### [4가지 CNN 살펴보기]
-- inception module을 사용하면 파라미터가 줄어들게 
+- inception module을 사용하면 파라미터의 수가 줄어듦.
