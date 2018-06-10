@@ -70,6 +70,7 @@
 ### [4가지 CNN 살펴보기]
 - inception module을 사용하면 파라미터의 수가 줄어듦
 
-## 20180609
+## 20180609/10
 ### [데이터 구조 및 ]
 - Week 1 Python Overview
+- Week 2
